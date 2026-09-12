@@ -4,8 +4,6 @@ A multi-view Tableau dashboard analyzing domestic tourism flows across Saudi Ara
 
 ## Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
-
 The dashboard explores domestic tourism behavior across Saudi provinces — trip volume, spending, travel purpose, and origin-destination patterns — combining temporal, geographic, and categorical views into a single coherent story.
 
 ## Dataset
